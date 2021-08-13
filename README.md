@@ -1,7 +1,7 @@
 # syslogsrv4dev
 
 Simple log server works with syslog, Additional Udp listener can be added. 
-The server doesn't require installation. The date is stored in SQLLite database
+The server doesn't require installation. The data is stored in SQLLite database
 
 ## Run application
 
