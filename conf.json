@@ -1,0 +1,7 @@
+{
+	"StorageAddress":    "./test.db",
+	"SyslogPort":        7570,
+	"WebPort":           5050,
+	"UdpPort":           9090,
+	"UdpRegExpTemplate": "(?s)^(?P<date>.*?)\\|(?P<levelId>.*?)\\|(?P<facilityid>.*?)\\|(?P<message>.*?)\\|(?P<host>.*?)\\|(?P<app>.*?)$"
+}
